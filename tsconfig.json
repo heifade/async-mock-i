@@ -10,7 +10,7 @@
     "allowSyntheticDefaultImports": true,
     "declaration": true,
     "declarationDir": "./typings",
-    "sourceMap": true,
+    "sourceMap": false,
     "resolveJsonModule": true
   }
 }
